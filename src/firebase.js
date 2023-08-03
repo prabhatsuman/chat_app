@@ -4,12 +4,13 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDVq74hP1r6ucUPm4zqDEQ1nZkX21mMw10",
-    authDomain: "whatsapp-clone-3b92a.firebaseapp.com",
-    projectId: "whatsapp-clone-3b92a",
-    storageBucket: "whatsapp-clone-3b92a.appspot.com",
-    messagingSenderId: "576742459247",
-    appId: "1:576742459247:web:2b8edf8316688da2ac0a9a"
+  apiKey: "AIzaSyChAnegSGp1G_AtX75OHSj7BFN6tRFPdfE",
+  authDomain: "group-chat-app-c3664.firebaseapp.com",
+  projectId: "group-chat-app-c3664",
+  storageBucket: "group-chat-app-c3664.appspot.com",
+  messagingSenderId: "480815429436",
+  appId: "1:480815429436:web:b3d6fdece8c62dc9385039",
+  measurementId: "G-Z0P3ZDHLRK"
   };
 
 
