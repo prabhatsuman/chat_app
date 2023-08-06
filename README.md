@@ -1,1 +1,1 @@
-# whatsapp-clone
+# chat-app
